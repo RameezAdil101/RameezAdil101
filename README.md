@@ -20,7 +20,7 @@ I am a Computer Science graduate and an IT professional passionate about DevOps,
 - ## 🤝 Contact & Professional Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameez-adil-626775213/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Rameezadil0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rameezadil0@gmail.com)
 
 
 *"True cloud mastery isn't just about spinning up infrastructure; it's about understanding the environment stack traces and core mechanics beneath it."*
