@@ -12,7 +12,6 @@ I am a Computer Science graduate and an IT professional passionate about DevOps,
 
 - **DevOps & CI/CD:** GitHub Actions, Git, Linux CLI, Pipeline Optimization
 - **Cloud Infrastructure:** AWS (Deployment & Infrastructure basics)
-- **Frameworks & Languages:** Next.js, Angular, Node.js, Bash
 - **Core Competencies:** Systems Support, Technical Troubleshooting, IT Operations
 
 ---
